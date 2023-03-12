@@ -9,8 +9,6 @@ defineProps<{
 }>()
 
 const counter = useCounterStore()
-
-// counter.increment()
 </script>
 
 <template>
